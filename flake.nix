@@ -1,5 +1,5 @@
 rec {
-  description = "Go Language Gin Framework Development Environment";
+  description = "Jupyter Python Notebook Development Environment";
 
   inputs.capacitor.url = "git+ssh://git@github.com/flox/capacitor";
   inputs.capacitor.inputs.root.follows = "/";
