@@ -15,9 +15,7 @@ buildInputs = [
     python3Packages.pygeos
     python3Packages.shapely
     python3Packages.geopy
-    contextily
-    alejandra
     # Custom packages
-    #"jupyter-env",
+    #contextily,
   ];
 }
