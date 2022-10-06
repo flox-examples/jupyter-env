@@ -1,4 +1,4 @@
-{stdenv,python3Packages,contextily,alejandra, ...}:
+{stdenv,python3Packages,contextily, ...}:
 stdenv.mkDerivation {
 name = "env";
 shellHook = ''
