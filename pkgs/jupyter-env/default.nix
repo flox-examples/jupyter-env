@@ -16,6 +16,6 @@ buildInputs = [
     python3Packages.shapely
     python3Packages.geopy
     # Custom packages
-    #contextily,
+    contextily
   ];
 }
